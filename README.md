@@ -4,8 +4,7 @@
 ![React](https://img.shields.io/badge/Frontend-React.js-61dafb)
 
 ?? Architecture Diagram
-
-![Architecture Diagram](Architecture%20Diagram)
+![Architecture Diagram](Architecture%20Diagram.png)
 
 
 🎥 **Watch Full Demo on YouTube →** [https://youtu.be/Xrqn_y9fgzo?si=6zq4Ddagqnwcu9aK](https://youtu.be/Xrqn_y9fgzo?si=6zq4Ddagqnwcu9aK)
