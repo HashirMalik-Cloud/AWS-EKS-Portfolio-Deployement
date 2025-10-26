@@ -3,7 +3,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Active-326ce5)
 ![React](https://img.shields.io/badge/Frontend-React.js-61dafb)
 
-?? Architecture Diagram
+Architecture Diagram
 ![Architecture Diagram](Architecture%20Diagram.png)
 
 
