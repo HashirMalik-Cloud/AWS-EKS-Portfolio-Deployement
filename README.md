@@ -3,6 +3,13 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Active-326ce5)
 ![React](https://img.shields.io/badge/Frontend-React.js-61dafb)
 
+?? Architecture Diagram
+
+![Architecture Diagram](Architecture%20Diagram)
+
+
+🎥 **Watch Full Demo on YouTube →** [https://youtu.be/Xrqn_y9fgzo?si=6zq4Ddagqnwcu9aK](https://youtu.be/Xrqn_y9fgzo?si=6zq4Ddagqnwcu9aK)
+
 # 🌐 Portfolio App – Full Stack Deployment on AWS EKS
 
 This project demonstrates a **real-world DevOps workflow** for deploying a **Full Stack Portfolio Application** (React Frontend + Python Flask Backend) using **Amazon EKS (Elastic Kubernetes Service)**.
