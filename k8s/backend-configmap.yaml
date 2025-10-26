@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: backend-config
+  namespace: portfolio-app
+data:
+  ENV: "development"
+  # Add other config keys here (do NOT put secrets here — use Secrets in production)
+  API_NOTE: "ConfigMap-based backend config for portfolio app"

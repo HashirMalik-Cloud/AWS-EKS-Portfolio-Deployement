@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Kubernetes EKS Demo",
+    "description": "Full-stack app deployed on EKS; CI/CD and infra as code.",
+    "status": "Live"
+  },
+  {
+    "title": "Cloud Infrastructure",
+    "description": "AWS infra with Terraform + EKS + Observability.",
+    "status": "Live"
+  },
+  {
+    "title": "Containerized Portfolio",
+    "description": "Frontend served via Nginx, backend as microservice - demo-ready.",
+    "status": "In Progress"
+  }
+]
